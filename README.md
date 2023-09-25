@@ -32,7 +32,9 @@ See the section about deployment for more information.
 
 ### Used Technologies
 
-HTML, Css, React JS
+HTML, Css, JavaScript, React JS
+
+![](bookworm.gif)
 
 
 
